@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: "Noto Sans TC", Arial, sans-serif;
-  background: linear-gradient(135deg, #FFF86E, #FFF759);
+  background: linear-gradient(135deg, #F4FFEB, #ECFFEB);
   color: #222;
 }
 
@@ -31,7 +31,7 @@ body {
   padding: 7px 12px;
   border-radius: 999px;
   background: #fff1eb;
-  color: #ED2DD7;
+  color: #ee4d2d;
   font-size: 13px;
   font-weight: 700;
   margin-bottom: 14px;
@@ -197,7 +197,7 @@ button:disabled {
   margin-top: 14px;
   padding: 13px 20px;
   border-radius: 14px;
-  background: #C9FFC9;
+  background: #06c755;
   color: white;
   text-align: center;
   font-size: 16px;
